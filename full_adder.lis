@@ -1,0 +1,26 @@
+ ****** HSPICE -- L-2016.06-SP1 win64 (Aug 24 2016) ******                      
+  Copyright (c) 1986 - 2024 by Synopsys, Inc. All Rights Reserved.              
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+  Input File: full_adder.sp                                                     
+  Command line options: C:\synopsys\Hspice_L-2016.06-SP1\WIN64\hspice.com -i full_adder.sp -o E:\takalif_daneshgah\cads\full_Adder_spice\full_adder.lis
+  lic:  
+  lic: FLEXlm: v11.2.1 
+  lic: USER:   scot flop            HOSTNAME: DESKTOP-QN1UJLM 
+  lic: HOSTID: "000000000001"       PID:      6720 
+  lic: The desired vendor daemon is down.  Check the lmgrd log file, or try lmre
+ r 
+  lic: Using FLEXlm license files: 
+  lic: 27000@DESKTOP-QN1UJLM 
+  lic: Unable to checkout (hspice) 
+  lic:   
+  lic: The desired vendor daemon is down.  Check the lmgrd log file, or try lmre
+ r 
+  lic: Using FLEXlm license files: 
+  lic: 27000@DESKTOP-QN1UJLM 
+  lic: Unable to checkout (hspicewin) 
+  lic:   
+ lic: total license checkout elapse time:        0.03(s)
